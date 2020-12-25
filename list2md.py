@@ -8,7 +8,7 @@ head = '''# Top Python Web Frameworks
 A list of popular github projects related to Python web framework (ranked by stars automatically)
 Please update **list.txt** (via Pull Request)
 
-Tips：这是一份关于python web 框架的 github 名单，定期自动更新，如果有新的 web 或者 api 框架，可以 issues 或者 pr “list.txt” 文件给我。
+Tips：这是一份关于python web 框架的 github 名单，每天 UTC 时间上午 9 点自动更新 github 状态，如果有新的 web 或者 api 框架，可以 issues 或者 pr “list.txt” 文件给我。
 
 | Project Name | Stars | Forks | Open Issues | Description | Last Commit |
 | ------------ | ----- | ----- | ----------- | ----------- | ----------- |
