@@ -52,13 +52,13 @@ def getGithubToken():
     env_dist = os.environ
     # print(env_dist.get('secrets.GITHUB_TOKEN'))
     # print(env_dist['secrets.GITHUB_TOKEN'])
-    print("1")
-    print(env_dist.get('GITHUB_TOKEN'))
-    print(env_dist['GITHUB_TOKEN'])
-    print("2")
-    print(os.getenv('secrets.GITHUB_TOKEN'))
-    print(os.getenv('GITHUB_TOKEN'))
-    print("3")
+    # print("1")
+    # print(env_dist.get('GITHUB_TOKEN'))
+    # print(env_dist['GITHUB_TOKEN'])
+    # print("2")
+    # print(os.getenv('secrets.GITHUB_TOKEN'))
+    # print(os.getenv('GITHUB_TOKEN'))
+    # print("3")
     for key in env_dist:
         print(key + ' : ' + env_dist[key])
 
