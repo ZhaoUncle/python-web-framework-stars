@@ -30,7 +30,7 @@ jobs:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
 
       # Runs a single command using the runners shell
-      - name: python3 list2md.py
-        run: python3 list2md.py
+      - name: python3 list2md.py 
+        run: python3 list2md.py ${{ secrets.SECRET_NAME }}
 
 
