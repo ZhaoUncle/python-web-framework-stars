@@ -20,5 +20,4 @@ https://github.com/pyeve/eve
 https://github.com/tiangolo/fastapi
 https://github.com/encode/django-rest-framework
 https://github.com/webpy/webpy
-https://github.com/web2py/web2py
 https://github.com/klen/muffin
