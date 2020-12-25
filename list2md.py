@@ -50,8 +50,8 @@ def main():
 
 def getGithubToken():
     env_dist = os.environ
-    print(env_dist.get('secrets.GITHUB_TOKEN'))
-    print(env_dist['secrets.GITHUB_TOKEN'])
+    # print(env_dist.get('secrets.GITHUB_TOKEN'))
+    # print(env_dist['secrets.GITHUB_TOKEN'])
     print("1")
     print(env_dist.get('GITHUB_TOKEN'))
     print(env_dist['GITHUB_TOKEN'])
