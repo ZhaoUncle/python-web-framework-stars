@@ -31,6 +31,6 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: python3 list2md.py ${{ secrets.SECRET_NAME }}
-        run: python3 list2md.py ${{ secrets.SECRET_NAME }}
+        run: python3 list2md.py ${{ secrets.GITHUB_TOKEN }}
 
 
