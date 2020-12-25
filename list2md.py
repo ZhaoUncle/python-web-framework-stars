@@ -1,6 +1,7 @@
 from datetime import datetime
 import json
 import requests
+import os
 
 
 head = '''# Top Python Web Frameworks
@@ -47,6 +48,19 @@ def main():
         repos.sort(key=lambda r: r['stargazers_count'], reverse=True)
         save_ranking(repos)
 
+def getGithubToken():
+    env_dist = os.environ
+    print(env_dist.get('secrets.GITHUB_TOKEN'))
+    print(env_dist['secrets.GITHUB_TOKEN'])
+    print("1")
+    print(env_dist.get('GITHUB_TOKEN'))
+    print(env_dist['GITHUB_TOKEN'])
+    print("2")
+    print(os.getenv('secrets.GITHUB_TOKEN'))
+    print(os.getenv('GITHUB_TOKEN'))
+    print("3")
+    for key in env_dist:
+        print key + ' : ' + env_dist[key]
 
 def get_access_token():
     with open('access_token.txt', 'r') as f:
@@ -74,4 +88,5 @@ def is_deprecated(repo_url):
 
 
 if __name__ == '__main__':
+    getGithubToken()
     main()
