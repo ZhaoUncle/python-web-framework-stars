@@ -23,13 +23,22 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@main
-
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v1
+        with:
+          python-version: 3.7
 
       # Runs a single command using the runners shell
       - name: python3 list2md.py
         run: python3 list2md.py ${{ secrets.GITHUB_TOKEN }}
       
-      - name: git push 
-        run: sh cron.sh
+      - name: commit
+        run: |
+          git add .
+          git commit -m "update" -a
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
