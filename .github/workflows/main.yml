@@ -32,5 +32,5 @@ jobs:
       - name: python3 list2md.py
         run: python3 list2md.py ${{ secrets.GITHUB_TOKEN }}
       
-      - uses: upload-artifact@main
+      - uses: actions/upload-artifact@main
 
