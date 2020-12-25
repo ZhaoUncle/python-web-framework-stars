@@ -25,12 +25,12 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
-        with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@main
+
 
       # Runs a single command using the runners shell
-      - name: python3 list2md.py ${{ secrets.SECRET_NAME }}
+      - name: python3 list2md.py
         run: python3 list2md.py ${{ secrets.GITHUB_TOKEN }}
-
+      
+      - uses: upload-artifact@main
 
