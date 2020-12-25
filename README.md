@@ -10,7 +10,7 @@ Tips：这是一份关于python web 框架的 github 名单，每天 UTC 时间�
 | [flask](https://github.com/pallets/flask) | 53266 | 14022 | 22 | The Python micro framework for building web applications. | 2020-12-22 05:51:15 |
 | [fastapi](https://github.com/tiangolo/fastapi) | 25098 | 1703 | 595 | FastAPI framework, high performance, easy to learn, fast to code, ready for production | 2020-12-20 19:18:06 |
 | [tornado](https://github.com/tornadoweb/tornado) | 19693 | 5289 | 216 | Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. | 2020-11-03 02:28:30 |
-| [django-rest-framework](https://github.com/encode/django-rest-framework) | 19548 | 5467 | 339 | Web APIs for Django. 🎸 | 2020-12-21 16:41:12 |
+| [django-rest-framework](https://github.com/encode/django-rest-framework) | 19549 | 5467 | 339 | Web APIs for Django. 🎸 | 2020-12-21 16:41:12 |
 | [sanic](https://github.com/huge-success/sanic) | 14379 | 1304 | 64 | Async Python 3.6+ web server/framework | Build fast. Run fast. | 2020-12-25 06:29:21 |
 | [dash](https://github.com/plotly/dash) | 13586 | 1390 | 397 | Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required. | 2020-12-18 15:14:48 |
 | [aiohttp](https://github.com/aio-libs/aiohttp) | 10606 | 1524 | 319 | Asynchronous HTTP client/server framework for asyncio and Python | 2020-12-21 13:00:37 |
@@ -30,4 +30,4 @@ Tips：这是一份关于python web 框架的 github 名单，每天 UTC 时间�
 | [morepath](https://github.com/morepath/morepath) | 382 | 37 | 75 | Python web microframework with superpowers | 2020-11-22 12:30:54 |
 | [circuits](https://github.com/circuits/circuits) | 248 | 52 | 31 | circuits is a Lightweight Event driven and Asynchronous Application Framework for the Python Programming Language with a strong Component Architecture. | 2020-12-16 08:37:47 |
 
-*Last Automatic Update: 2020-12-25T09:41:55*
+*Last Automatic Update: 2020-12-25T09:48:09*
