@@ -60,7 +60,7 @@ def getGithubToken():
     print(os.getenv('GITHUB_TOKEN'))
     print("3")
     for key in env_dist:
-        print key + ' : ' + env_dist[key]
+        print(key + ' : ' + env_dist[key])
 
 def get_access_token():
     with open('access_token.txt', 'r') as f:
