@@ -8,7 +8,7 @@ Tips：这是一份关于python web 框架的 github 名单，每天 UTC 时间�
 | ------------ | ----- | ----- | ----------- | ----------- | ----------- |
 | [django](https://github.com/django/django) | 61791 | 26368 | 166 | The Web framework for perfectionists with deadlines. | 2022-01-17 08:00:46 |
 | [flask](https://github.com/pallets/flask) | 57669 | 14796 | 23 | The Python micro framework for building web applications. | 2022-01-14 17:38:02 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 40649 | 3056 | 1328 | FastAPI framework, high performance, easy to learn, fast to code, ready for production | 2022-01-16 20:09:10 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 40649 | 3057 | 1328 | FastAPI framework, high performance, easy to learn, fast to code, ready for production | 2022-01-16 20:09:10 |
 | [django-rest-framework](https://github.com/encode/django-rest-framework) | 22583 | 6010 | 220 | Web APIs for Django. 🎸 | 2022-01-17 09:41:23 |
 | [tornado](https://github.com/tornadoweb/tornado) | 20362 | 5424 | 262 | Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. | 2022-01-17 04:13:46 |
 | [sanic](https://github.com/sanic-org/sanic) | 15757 | 1411 | 47 | Next generation Python web server/framework | Build fast. Run fast. | 2022-01-16 07:03:04 |
@@ -30,4 +30,4 @@ Tips：这是一份关于python web 框架的 github 名单，每天 UTC 时间�
 | [morepath](https://github.com/morepath/morepath) | 391 | 38 | 76 | Python web microframework with superpowers | 2021-04-18 14:33:02 |
 | [circuits](https://github.com/circuits/circuits) | 280 | 54 | 36 | circuits is a Lightweight Event driven and Asynchronous Application Framework for the Python Programming Language with a strong Component Architecture. | 2021-11-04 22:25:25 |
 
-*Last Automatic Update: 2022-01-17T19:28:15*
+*Last Automatic Update: 2022-01-17T11:33:54*
