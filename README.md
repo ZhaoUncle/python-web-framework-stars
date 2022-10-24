@@ -6,28 +6,28 @@ Tips：这是一份关于python web 框架的 github 名单，每天 UTC 时间�
 
 | Project Name | Stars | Forks | Open Issues | Description | Last Commit |
 | ------------ | ----- | ----- | ----------- | ----------- | ----------- |
-| [django](https://github.com/django/django) | 66831 | 27997 | 164 | The Web framework for perfectionists with deadlines. | 2022-10-14 04:10:50 |
-| [flask](https://github.com/pallets/flask) | 60839 | 15290 | 9 | The Python micro framework for building web applications. | 2022-10-05 03:09:06 |
-| [fastapi](https://github.com/tiangolo/fastapi) | 50577 | 4057 | 1548 | FastAPI framework, high performance, easy to learn, fast to code, ready for production | 2022-10-16 15:16:24 |
-| [django-rest-framework](https://github.com/encode/django-rest-framework) | 24284 | 6331 | 177 | Web APIs for Django. 🎸 | 2022-10-17 09:20:59 |
-| [tornado](https://github.com/tornadoweb/tornado) | 20801 | 5481 | 217 | Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. | 2022-10-15 15:40:46 |
-| [dash](https://github.com/plotly/dash) | 17482 | 1779 | 695 | Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required. | 2022-10-13 15:36:15 |
-| [sanic](https://github.com/sanic-org/sanic) | 16521 | 1471 | 58 | Next generation Python web server/framework | Build fast. Run fast. | 2022-09-29 10:04:46 |
-| [aiohttp](https://github.com/aio-libs/aiohttp) | 12924 | 1816 | 463 | Asynchronous HTTP client/server framework for asyncio and Python | 2022-10-16 16:13:41 |
-| [falcon](https://github.com/falconry/falcon) | 8912 | 894 | 176 | The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale. | 2022-10-10 19:16:57 |
-| [bottle](https://github.com/bottlepy/bottle) | 7772 | 1441 | 314 | bottle.py is a fast and simple micro-framework for python web-applications. | 2022-09-05 15:24:52 |
-| [hug](https://github.com/hugapi/hug) | 6659 | 379 | 175 | Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler. | 2020-08-10 05:07:26 |
-| [eve](https://github.com/pyeve/eve) | 6536 | 753 | 23 | REST API framework designed for human beings | 2022-09-23 07:44:54 |
-| [webpy](https://github.com/webpy/webpy) | 5732 | 1330 | 41 | web.py is a web framework for python that is as simple as it is powerful.  | 2022-10-13 07:40:02 |
+| [django](https://github.com/django/django) | 66940 | 28063 | 183 | The Web framework for perfectionists with deadlines. | 2022-10-24 08:04:38 |
+| [flask](https://github.com/pallets/flask) | 60912 | 15315 | 8 | The Python micro framework for building web applications. | 2022-10-05 03:09:06 |
+| [fastapi](https://github.com/tiangolo/fastapi) | 50796 | 4095 | 1548 | FastAPI framework, high performance, easy to learn, fast to code, ready for production | 2022-10-20 11:15:56 |
+| [django-rest-framework](https://github.com/encode/django-rest-framework) | 24342 | 6349 | 180 | Web APIs for Django. 🎸 | 2022-10-20 14:32:25 |
+| [tornado](https://github.com/tornadoweb/tornado) | 20816 | 5482 | 217 | Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. | 2022-10-15 15:40:46 |
+| [dash](https://github.com/plotly/dash) | 17527 | 1786 | 695 | Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required. | 2022-10-17 14:45:24 |
+| [sanic](https://github.com/sanic-org/sanic) | 16534 | 1475 | 64 | Next generation Python web server/framework | Build fast. Run fast. | 2022-10-21 11:31:22 |
+| [aiohttp](https://github.com/aio-libs/aiohttp) | 12947 | 1819 | 469 | Asynchronous HTTP client/server framework for asyncio and Python | 2022-10-22 23:01:23 |
+| [falcon](https://github.com/falconry/falcon) | 8923 | 899 | 177 | The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale. | 2022-10-10 19:16:57 |
+| [bottle](https://github.com/bottlepy/bottle) | 7782 | 1441 | 313 | bottle.py is a fast and simple micro-framework for python web-applications. | 2022-09-05 15:24:52 |
+| [hug](https://github.com/hugapi/hug) | 6661 | 377 | 175 | Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler. | 2020-08-10 05:07:26 |
+| [eve](https://github.com/pyeve/eve) | 6541 | 752 | 23 | REST API framework designed for human beings | 2022-09-23 07:44:54 |
+| [webpy](https://github.com/webpy/webpy) | 5738 | 1330 | 42 | web.py is a web framework for python that is as simple as it is powerful.  | 2022-10-13 07:40:02 |
 | [vibora](https://github.com/vibora-io/vibora) | 5709 | 316 | 146 | Fast, asynchronous and elegant Python web framework. | 2019-02-11 10:54:12 |
-| [pyramid](https://github.com/Pylons/pyramid) | 3701 | 881 | 75 | Pyramid - A Python web framework | 2022-09-29 23:22:56 |
-| [web2py](https://github.com/web2py/web2py) | 2020 | 874 | 358 | Free and open source full-stack enterprise framework for agile development of secure database-driven web-based applications, written and programmable in Python. | 2022-06-04 18:11:51 |
-| [masonite](https://github.com/MasoniteFramework/masonite) | 1897 | 122 | 15 | The Modern And Developer Centric Python Web Framework. Be sure to read the documentation and join the Discord channel for questions: https://discord.gg/TwKeFahmPZ | 2022-10-13 11:09:03 |
-| [cherrypy](https://github.com/cherrypy/cherrypy) | 1599 | 345 | 239 | CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.dev | 2022-07-17 20:36:25 |
-| [tg2](https://github.com/TurboGears/tg2) | 776 | 76 | 10 | Python web framework with full-stack layer implemented on top of a microframework core with support for MongoDB, Pluggable Applications and autogenerated Admin | 2021-05-26 09:26:31 |
+| [pyramid](https://github.com/Pylons/pyramid) | 3706 | 883 | 74 | Pyramid - A Python web framework | 2022-09-29 23:22:56 |
+| [web2py](https://github.com/web2py/web2py) | 2019 | 875 | 358 | Free and open source full-stack enterprise framework for agile development of secure database-driven web-based applications, written and programmable in Python. | 2022-06-04 18:11:51 |
+| [masonite](https://github.com/MasoniteFramework/masonite) | 1905 | 122 | 21 | The Modern And Developer Centric Python Web Framework. Be sure to read the documentation and join the Discord channel for questions: https://discord.gg/TwKeFahmPZ | 2022-10-21 17:22:02 |
+| [cherrypy](https://github.com/cherrypy/cherrypy) | 1603 | 346 | 239 | CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.dev | 2022-07-17 20:36:25 |
+| [tg2](https://github.com/TurboGears/tg2) | 775 | 76 | 10 | Python web framework with full-stack layer implemented on top of a microframework core with support for MongoDB, Pluggable Applications and autogenerated Admin | 2021-05-26 09:26:31 |
 | [Growler](https://github.com/pyGrowler/Growler) | 686 | 26 | 5 | A micro web-framework using asyncio coroutines and chained middleware. | 2020-03-08 07:51:41 |
-| [muffin](https://github.com/klen/muffin) | 621 | 25 | 0 | Muffin is a fast, simple and asyncronous web-framework for Python 3 | 2022-08-12 08:22:55 |
+| [muffin](https://github.com/klen/muffin) | 619 | 25 | 0 | Muffin is a fast, simple and asyncronous web-framework for Python 3 | 2022-08-12 08:22:55 |
 | [morepath](https://github.com/morepath/morepath) | 396 | 36 | 76 | Python web microframework with superpowers | 2022-05-29 18:09:39 |
 | [circuits](https://github.com/circuits/circuits) | 284 | 56 | 37 | circuits is a Lightweight Event driven and Asynchronous Application Framework for the Python Programming Language with a strong Component Architecture. | 2021-11-04 22:25:25 |
 
-*Last Automatic Update: 2022-10-17T09:23:29*
+*Last Automatic Update: 2022-10-24T09:22:26*
